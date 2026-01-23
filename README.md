@@ -27,8 +27,8 @@ A collection of advanced AI tools demonstrating **Computer Vision**, **Geospatia
 
 ### 💻 How to Run
 1. Clone the repo:
-   `git clone https://github.com/[PREDATOR755]/ai-portfolio.git`
+   `git clone https://github.com/PREDATOR755/ai-portfolio.git`
 2. Install dependencies:
    `pip install -r requirements.txt`
 3. Run the apps:
-   `streamlit run Project_3_Auto_Analyst/agent_app.py`
+   `streamlit run Project_3_auto analyst/agent_app.py`
