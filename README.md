@@ -1,6 +1,6 @@
 ### By [Siyam Waheed] | Data Science enthusiast 
 
-## 🛠️ Project: Safe-Search (Semantic Video Search)
+## 🛠️ Project: Search-Light (Semantic Video Search)
 **"Google for Surveillance Footage"**
 * **Tech Stack:** Python, Streamlit, CLIP Embeddings, Vector Search.
 * **What it does:** Allows users to search video footage using natural language (e.g., "Find a pink taxi"). It uses vector embeddings to "watch" and understand video frames semantically.
